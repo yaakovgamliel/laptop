@@ -129,7 +129,7 @@ fancy_echo "Installing QT, used by Capybara Webkit for headless Javascript integ
   brew_install_or_upgrade 'qt'
 
 fancy_echo "Installing GitHub CLI client ..."
-  brew_install_or_upgrade 'gh'
+  brew_install_or_upgrade 'hub --head'
 
 node_version="0.10"
 
