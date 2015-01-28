@@ -11,6 +11,8 @@ Note
 ====
 This is a fork and  We’ve change the script to only install the packages listed here.
 
+Check out [Thoughtbots repo](https://github.com/thoughtbot/laptop/) for the original
+
 Requirements
 ------------
 
@@ -29,8 +31,7 @@ Download, review, then execute the script:
 
 ```sh
 curl --remote-name https://raw.githubusercontent.com/yaakovgamliel/laptop/master/mac
-less mac
-sh mac 2>&1 | tee ~/laptop.log
+sh mac 
 ```
 
 What it sets up
