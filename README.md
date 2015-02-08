@@ -32,6 +32,7 @@ Download, review, then execute the script:
 ```sh
 curl --remote-name https://raw.githubusercontent.com/yaakovgamliel/laptop/master/mac
 sh mac 
+rm mac
 ```
 
 What it sets up
