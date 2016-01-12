@@ -37,15 +37,11 @@ rm mac
 
 What it sets up
 ---------------
-* [Homebrew] for managing operating system libraries
-* [Mogenarator] for managing Core Data stuff
-* [ImageMagick] for cropping and resizing images
-* [Ghostsript] for making cute little version numbers in the app’s icon
+* [Homebrew](http://brew.sh) for managing operating system libraries
+* [Mogenarator](http://rentzsch.github.io/mogenerator) for managing Core Data stuff
+* [ImageMagick]( http://www.imagemagick.org) for cropping and resizing images
+* [Ghostsript](http://www.ghostscript.com) for making cute little version numbers in the app’s icon
 
-[Homebrew]: http://brew.sh/
-[ImageMagick]: http://www.imagemagick.org/
-[Mogenerator]: http://rentzsch.github.io/mogenerator/
-[Ghostscript]: http://www.ghostscript.com
 It should take less than 5 minutes to install (depends on your machine).
 
 
