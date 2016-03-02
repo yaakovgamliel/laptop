@@ -67,7 +67,7 @@ gem_install_or_update() {
   else
     fancy_echo "Installing %s ..." "$1"
     gem install "$@"
-    rbenv rehash
+    #rbenv rehash
   fi
 }
 
