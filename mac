@@ -90,6 +90,5 @@ fancy_echo "Updating Homebrew formulas ..."
 brew update
 
 brew_install_or_upgrade 'imagemagick'
-brew_install_or_upgrade 'mogenerator'
 brew_install_or_upgrade 'ghostscript'
 
